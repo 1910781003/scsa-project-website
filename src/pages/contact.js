@@ -26,7 +26,7 @@ class About extends React.Component {
             <div>
               <h3>Email</h3>
               <a
-                href="mailto:hello@anoun.company"
+                href="mailto:hello@testfirma.scsa"
               >
                 hello@anoun.company
               </a>
@@ -34,9 +34,9 @@ class About extends React.Component {
             <div>
               <h3>Instagram</h3>
               <a
-                href="https://www.instagram.com/anoun.company"
+                href="https://www.instagram.com/testfirma.scsa"
               >
-                @anoun.company
+                @testfirma.scsa
               </a>
             </div>
           </div>
